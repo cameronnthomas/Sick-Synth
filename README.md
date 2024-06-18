@@ -10,7 +10,9 @@ The main objective of this project is to demonstrate proficiency in:
 - Analog circuit design
 - PCB design and assembly
 
-## Features
+## Firmware Overwiew
+![image](https://github.com/cameronnthomas/Sick-Synth/assets/173108159/e6b64b67-dec4-4567-8cf1-5eb216569000)
+
 
 ### Hardware Configuration
 The synthesizer's firmware initializes various hardware settings, including:
